@@ -1,0 +1,109 @@
+{
+    "type": "model",
+    "series": "16",
+    "authority-id": "SgO2EXiK2bwgtciB1mNjMYM6zcljwXZt",
+    "brand-id": "SgO2EXiK2bwgtciB1mNjMYM6zcljwXZt",
+    "model": "rpi-ces-jcv-1",
+    "architecture": "arm64",
+    "timestamp": "2022-09-26T09:23:55+00:00",
+    "base": "core20",
+    "grade": "signed",
+    "store": "IoTh4moam7vahMab9coo",
+    "snaps": [
+        {
+            "name": "iotdevice-rpi-ces-jcv",
+            "type": "gadget",
+            "default-channel": "latest/edge",
+            "id": "GWlE6YEPuDidrd3NADqVzxbeHuYpCItN"
+        },
+        {
+            "name": "pi-kernel",
+            "type": "kernel",
+            "default-channel": "20/stable",
+            "id": "jeIuP6tfFrvAdic8DMWqHmoaoukAPNbJ"
+        },
+        {
+            "name": "core20",
+            "type": "base",
+            "default-channel": "latest/stable",
+            "id": "DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q"
+        },
+        {
+            "name": "snapd",
+            "type": "snapd",
+            "default-channel": "latest/stable",
+            "id": "PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4"
+        },
+        {
+            "name": "iotdevice-device-controller",
+            "type": "app",
+            "default-channel": "latest/edge",
+            "id": "CzdFgs2UnpmGq9tBVYk9yWhdN92cPRQE"
+        },
+        {
+            "name": "iotdevice-device-ui",
+            "type": "app",
+            "default-channel": "latest/edge",
+            "id": "dVCj8r7mKyWCXdniId2XgyVokZRnO3FX"
+        },
+        {
+            "name": "core18",
+            "type": "base",
+            "default-channel": "latest/stable",
+            "id": "CSO04Jhav2yK0uz97cr0ipQRyqg0qQL6"
+        },
+        {
+            "name": "bluez",
+            "type": "app",
+            "default-channel": "20/stable",
+            "id": "JmzJi9kQvHUWddZ32PDJpBRXUpGRxvNS"
+        },
+        {
+            "name": "pi-bluetooth",
+            "type": "app",
+            "default-channel": "latest/stable",
+            "id": "MllPrJmz2tNjFQk65iIsHajyVeJDam9a"
+        },
+        {
+            "name": "bare",
+            "type": "base",
+            "default-channel": "latest/stable",
+            "id": "EISPgh06mRh1vordZY9OZ34QHdd7OrdR"
+        },
+        {
+            "name": "gnome-3-38-2004",
+            "type": "app",
+            "default-channel": "latest/stable",
+            "id": "rw36mkAjdIKl13dzfwyxP87cejpyIcct"
+        },
+        {
+            "name": "mesa-core20",
+            "type": "app",
+            "default-channel": "latest/stable",
+            "id": "pDDsAW9ifzZnogboHJu3udsA6LsbGeGP"
+        },
+        {
+            "name": "ubuntu-frame",
+            "type": "app",
+            "default-channel": "latest/stable",
+            "id": "BPZbvWzvoMTrpec4goCXlckLe2IhfthK"
+        },
+        {
+            "name": "gtk-common-themes",
+            "type": "app",
+            "default-channel": "latest/stable",
+            "id": "jZLfBRzf1cYlYysIjD2bwSzNtngY0qit"
+        },
+        {
+            "name": "wpe-webkit-mir-kiosk",
+            "type": "app",
+            "default-channel":"latest/stable",
+            "id":"01sV9tv4UTUQTU3jYsAF1gJ5qv7ZqGls"
+        }
+
+
+
+    ],
+    "timestamp": "2022-11-17T10:54:36Z"
+
+}  
