@@ -1,2 +1,6 @@
 rpi-jcv.assert
 store.auth
+pi-jc.img
+*.assert
+seed.manifest
+rpi-jcv-dangerous.ko
