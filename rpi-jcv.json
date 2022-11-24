@@ -95,11 +95,18 @@
             "id": "jZLfBRzf1cYlYysIjD2bwSzNtngY0qit"
         },
         {
-            "name": "wpe-webkit-mir-kiosk",
+            "name": "iotdevice-jcv-kiosk",
             "type": "app",
-            "default-channel":"latest/stable",
-            "id":"01sV9tv4UTUQTU3jYsAF1gJ5qv7ZqGls"
+            "default-channel":"latest/edge",
+            "id":"mANsujWjTSaWY8nUpPnymK1QzUpL8bLO"
+        },
+        {
+            "name": "iotdevice-lighttpd",
+            "type": "app",
+            "default-channel":"latest/edge",
+            "id":"Nm1py9tzRRhEEqu5d69viVSGkY6I22nG"
         }
+
 
 
 
