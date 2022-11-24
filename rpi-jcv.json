@@ -94,6 +94,12 @@
             "default-channel": "latest/stable",
             "id": "jZLfBRzf1cYlYysIjD2bwSzNtngY0qit"
         },
+	{
+            "name": "opencv-html-demo",
+            "type": "app",
+            "default-channel":"latest/edge",
+            "id":"Wp6KeSJrw6fcYhuQ5zVfhYHVKBSI2cfB"
+        },
         {
             "name": "iotdevice-jcv-kiosk",
             "type": "app",
