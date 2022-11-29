@@ -111,11 +111,19 @@
             "type": "app",
             "default-channel":"latest/edge",
             "id":"Nm1py9tzRRhEEqu5d69viVSGkY6I22nG"
+        },
+        {
+            "name": "iotdevice-node-red-demo",
+            "type": "app",
+            "default-channel":"latest/stable",
+            "id":"FECrEA2ac983H5TWSoEfOMLnAFXVpAcX"
+        },
+        {
+            "name": "iotdevice-grafana-cs",
+            "type": "app",
+            "default-channel":"latest/stable",
+            "id":"9IuGPw5BnC6jAgdi9O95WluQZqFEAi27"
         }
-
-
-
-
     ],
     "timestamp": "2022-11-17T10:54:36Z"
 
