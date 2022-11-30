@@ -23,10 +23,22 @@
             "id": "jeIuP6tfFrvAdic8DMWqHmoaoukAPNbJ"
         },
         {
+            "name": "core18",
+            "type": "base",
+            "default-channel": "latest/stable",
+            "id": "CSO04Jhav2yK0uz97cr0ipQRyqg0qQL6"
+        },
+        {
             "name": "core20",
             "type": "base",
             "default-channel": "latest/stable",
             "id": "DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q"
+        },
+        {
+            "name": "core22",
+            "type": "base",
+            "default-channel": "latest/stable",
+            "id": "amcUKQILKXHHTlmSa7NMdnXSx02dNeeT"
         },
         {
             "name": "snapd",
@@ -45,12 +57,6 @@
             "type": "app",
             "default-channel": "latest/edge",
             "id": "dVCj8r7mKyWCXdniId2XgyVokZRnO3FX"
-        },
-        {
-            "name": "core18",
-            "type": "base",
-            "default-channel": "latest/stable",
-            "id": "CSO04Jhav2yK0uz97cr0ipQRyqg0qQL6"
         },
         {
             "name": "bluez",
@@ -123,6 +129,12 @@
             "type": "app",
             "default-channel":"latest/stable",
             "id":"9IuGPw5BnC6jAgdi9O95WluQZqFEAi27"
+	},
+	{
+	    "name": "edgexfoundry",
+	    "type": "app",
+	    "default-channel":"latest/stable",
+	    "id":"AZGf0KNnh8aqdkbGATNuRuxnt1GNRKkV"
         }
     ],
     "timestamp": "2022-11-17T10:54:36Z"
