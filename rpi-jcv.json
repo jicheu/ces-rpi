@@ -65,10 +65,11 @@
             "id": "JmzJi9kQvHUWddZ32PDJpBRXUpGRxvNS"
         },
         {
-            "name": "pi-bluetooth",
+            "name": "iotdevice-pi-bluetooth",
             "type": "app",
             "default-channel": "latest/stable",
-            "id": "MllPrJmz2tNjFQk65iIsHajyVeJDam9a"
+	    "id": "7x58osoHu82y5zyHhhJze7Uj0BXL8VTv"
+
         },
         {
             "name": "bare",
@@ -109,7 +110,7 @@
         {
             "name": "iotdevice-jcv-kiosk",
             "type": "app",
-            "default-channel":"latest/edge",
+            "default-channel":"latest/beta",
             "id":"mANsujWjTSaWY8nUpPnymK1QzUpL8bLO"
         },
         {
@@ -117,12 +118,6 @@
             "type": "app",
             "default-channel":"latest/edge",
             "id":"Nm1py9tzRRhEEqu5d69viVSGkY6I22nG"
-        },
-        {
-            "name": "iotdevice-node-red-demo",
-            "type": "app",
-            "default-channel":"latest/stable",
-            "id":"FECrEA2ac983H5TWSoEfOMLnAFXVpAcX"
         },
         {
             "name": "iotdevice-grafana-cs",
@@ -135,6 +130,12 @@
 	    "type": "app",
 	    "default-channel":"latest/stable",
 	    "id":"AZGf0KNnh8aqdkbGATNuRuxnt1GNRKkV"
+        },
+        {
+            "name": "iotdevice-node-red-demo",
+            "type": "app",
+            "default-channel":"latest/stable",
+            "id":"FECrEA2ac983H5TWSoEfOMLnAFXVpAcX"
         }
     ],
     "timestamp": "2022-11-17T10:54:36Z"
