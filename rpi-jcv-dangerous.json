@@ -124,10 +124,10 @@
             "id":"9IuGPw5BnC6jAgdi9O95WluQZqFEAi27"
         },
 	{
-	    "name": "edgexfoundry",
+	    "name": "iotdevice-edgexfoundry",
 	    "type": "app",
 	    "default-channel":"latest/stable",
-	    "id":"AZGf0KNnh8aqdkbGATNuRuxnt1GNRKkV"
+	    "id":"3GEp3VxaCUTBgPNSeFhd5OaFEoBtDBat"
         },
         {
             "name": "iotdevice-node-red-demo",
