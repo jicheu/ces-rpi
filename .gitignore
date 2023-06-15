@@ -4,3 +4,5 @@ pi-jc.img
 *.assert
 seed.manifest
 rpi-jcv-dangerous.ko
+*.model
+*.img
